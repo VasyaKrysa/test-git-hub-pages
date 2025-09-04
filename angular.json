@@ -30,10 +30,8 @@
               "src/styles.scss"
             ],
             "server": "src/main.server.ts",
-            "outputMode": "static",
             "ssr": false,
-            "prerender": true,
-            "outputPath": "docs"
+            "prerender": true
           },
           "configurations": {
             "production": {
